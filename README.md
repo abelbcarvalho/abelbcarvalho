@@ -4,7 +4,7 @@
 
 My name is Abel, I started my journey as a developer with a passion for games, but I discovered the thrill of creating solutions and solving problems. Now, I leverage my knowledge of Python, specifically as a backend developer, and my experience in DevOps to build efficient and scalable systems, using cloud resources, (AWS, Heroku), unit tests and docker containers. I also have experience developing with TypeScript and JavaScript. Team working, empathy, communication and resilience matters to myself.
 
-Contact: [Abel Carvalho's Email](abelbarretodecarvalho.dev@gmail.com)
+Contact: [Abel Carvalho's Email](mailto:abelbarretodecarvalho.dev@gmail.com)
 
 ### Programming Languages
 
