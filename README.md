@@ -1,8 +1,10 @@
 # Hi there 👋
 
-I'm Abel, a programmer with a passion for finding constructive solutions through code. Guided by best practices, my goal is to build robust functionalities and support my team with innovative ideas to achieve our goals efficiently. I work as a backend programmer, but I believe that soft skills are essential in today's world.
+"The greatest developers are detectives at heart. Unravel the mysteries of logic, one line of code at a time".
 
-I value a culture of constructive feedback and concise communication, as I believe this optimizes time and maximizes results. In addition, I possess a set of technical skills that allow me to be a valuable member of any team.
+My name is Abel, I started my journey as a developer with a passion for games, but I discovered the thrill of creating solutions and solving problems. Now, I leverage my knowledge of Python, specifically as a backend developer, and my experience in DevOps to build efficient and scalable systems, using cloud resources, (AWS, Heroku), unit tests and docker containers. I also have experience developing with TypeScript and JavaScript. Team working, empathy, communication and resilience matters to myself.
+
+Contact: [Abel Carvalho's Email](abelbarretodecarvalho.dev@gmail.com)
 
 ### Programming Languages
 
