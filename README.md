@@ -6,9 +6,14 @@ My name is Abel, I started my journey as a developer with a passion for games, b
 
 Contact: [Abel Carvalho's Email](mailto:abelbarretodecarvalho.dev@gmail.com)
 
-- 🔭 I’m currently working on [TranslateDeepl](https://github.com/abelbcarvalho/translate-deepl)
+- 🔭 I’m currently working on **Planning yet**
+- 🔚 I finished the project [TranslateDeepl](https://github.com/abelbcarvalho/translate-deepl).
 - 🌱 I’m currently learning... **Prompt Engineering**.
 - ⚡ Fun fact: I'm a NFL enthusiast.
+
+### Favorites Projects
+
+- 🥇 [TranslateDeepl](https://github.com/abelbcarvalho/translate-deepl)
 
 ### Programming Languages
 
