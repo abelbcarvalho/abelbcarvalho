@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Abel 👋
 
 "The greatest developers are detectives at heart. Unravel the mysteries of logic, one line of code at a time".
 
