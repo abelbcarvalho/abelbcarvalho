@@ -6,9 +6,12 @@ My name is Abel, I started my journey as a developer with a passion for games, b
 
 Contact: [Abel Carvalho's Email](mailto:abelbcarvalho22@gmail.com)
 
+
+### Currenty Working... 
 - 🔭 I’m currently working on [DataToCsvAPI](https://github.com/abelbcarvalho/data-to-csv-api).
 - 🔭 I’m currently working on [DailyBread](https://github.com/abelbcarvalho/daily-bread).
 
+### Another Facts
 - 🔚 I finished the project [TranslateDeepl](https://github.com/abelbcarvalho/translate-deepl).
 - 🌱 I’m currently learning... **Prompt Engineering**.
 - ⚡ Fun fact: I'm a NFL enthusiast.
