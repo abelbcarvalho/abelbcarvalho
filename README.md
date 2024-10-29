@@ -4,9 +4,11 @@
 
 My name is Abel, I started my journey as a developer with a passion for games, but I discovered the thrill of creating solutions and solving problems. Now, I leverage my knowledge of Python, specifically as a backend developer, and my experience in DevOps to build efficient and scalable systems, using cloud resources, (AWS, Heroku), unit tests and docker containers. I also have experience developing with TypeScript and JavaScript. Team working, empathy, communication and resilience matters to myself.
 
-Contact: [Abel Carvalho's Email](mailto:abelbarretodecarvalho.dev@gmail.com)
+Contact: [Abel Carvalho's Email](mailto:abelbcarvalho22@gmail.com)
 
-- 🔭 I’m currently working on **Planning yet**
+- 🔭 I’m currently working on [DataToCsvAPI](https://github.com/abelbcarvalho/data-to-csv-api).
+- 🔭 I’m currently working on [DailyBread](https://github.com/abelbcarvalho/daily-bread).
+
 - 🔚 I finished the project [TranslateDeepl](https://github.com/abelbcarvalho/translate-deepl).
 - 🌱 I’m currently learning... **Prompt Engineering**.
 - ⚡ Fun fact: I'm a NFL enthusiast.
@@ -27,13 +29,14 @@ Contact: [Abel Carvalho's Email](mailto:abelbarretodecarvalho.dev@gmail.com)
 
 ### Frameworks
 
-![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![image](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Could Programming
 
