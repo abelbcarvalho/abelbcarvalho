@@ -6,6 +6,7 @@ My name is Abel, I started my journey as a developer with a passion for games, b
 
 Contact: [Abel Carvalho's Email](mailto:abelbcarvalho22@gmail.com)
 
+My main focus, no doubts, it's Python programming language as my main stack.
 
 ### Currenty Working... 
 - 🔭 I’m currently working on [DataToCsvAPI](https://github.com/abelbcarvalho/data-to-csv-api).
