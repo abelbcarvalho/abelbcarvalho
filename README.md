@@ -9,6 +9,7 @@ Contact: [Abel Carvalho's Email](mailto:abelbcarvalho22@gmail.com)
 My main focus, no doubts, it's Python programming language as my main stack.
 
 ### Currenty Working... 
+- 🔭 I'm currently working on [FitnessManager](https://github.com/abelbcarvalho/fitness-manager).
 - 🔭 I’m currently working on [DataToCsvAPI](https://github.com/abelbcarvalho/data-to-csv-api).
 - 🔭 I’m currently working on [DailyBread](https://github.com/abelbcarvalho/daily-bread).
 
